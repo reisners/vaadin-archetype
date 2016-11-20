@@ -1,0 +1,13 @@
+<archetype>
+	<id>vaadin-archetype</id>
+	<sources>
+		<source>src/main/java/**/*.java</source>
+	</sources>
+	<testSources>
+		<source>src/test/java/**/*.java</source>
+	</testSources>
+	<resources>
+		<resource>src/main/webapp/**</resource>
+		<resource>src/main/resources/**</resource>
+	</resources>
+</archetype>
